@@ -9,8 +9,8 @@ $ npm install
 ```
 
 # 📖 Usage
-## Commands
-- npm start
+> Commands
+- gulp default
 
 - gulp sass
 - gulp browser-sync
@@ -41,5 +41,5 @@ $ npm install
 
 # 🍻 Contributing
 Welcome!
-## Bug Reports or Feature Requests
+> Bug Reports or Feature Requests
 Please use GitHub Issues.
