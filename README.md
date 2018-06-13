@@ -10,7 +10,7 @@ $ npm install
 
 # 📖 Usage
 > Commands
-- gulp default
+- `gulp default`
 
 - gulp sass
 - gulp browser-sync
