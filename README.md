@@ -37,6 +37,8 @@ $ npm install
 - gulp-uglifyjs ^0.6.2
 - imagemin-pngquant ^5.0.1
 
+- bootstrap ^4.1.1
+
 # 🍻 Contributing
 Welcome!
 ## Bug Reports or Feature Requests
